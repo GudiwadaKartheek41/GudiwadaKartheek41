@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GudiwadaKartheek41
-- 👀 I’m interested in Dynamical System,Control Theory
+- 👀 I’m interested in Dynamical Systems,Control Theory
 - 🌱 I’m currently learning Scientific Machine Learning Techniques
 - 💞️ I’m looking to collaborate with like minded people
 - 📫 How to reach me - gmail:- gudiwadakartheek@gmail.com
